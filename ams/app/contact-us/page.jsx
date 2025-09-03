@@ -120,26 +120,7 @@ export default function ContactUs() {
         </form>
       </div>
 
-      {/* ===== Later move this into a Footer component ===== */}
-      {/*
-      <div className="bg-white shadow-lg rounded-lg p-8 text-center">
-        <p className="mb-3 text-gray-800">
-          Alternatively, you can reach us at:
-        </p>
-        <p className="mb-2">
-          <strong>Email:</strong> abednegoamani@gmail.com
-        </p>
-        <p className="mb-2">
-          <strong>Phone:</strong> +25495979586
-        </p>
-        <p className="mb-2">
-          <strong>Location:</strong> Mombasa, Kenya
-        </p>
-        <p className="mb-2">
-          <strong>Hours:</strong> Mon–Fri, 9am–5pm
-        </p>
-      </div>
-      */}
+      
     </div>
   );
 }
