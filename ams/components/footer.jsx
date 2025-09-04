@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-900 text-gray-300 py-12">
+    <footer className="bg-amsblue  text-white py-12">
       <div className="container mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-12">
         
         {/* About Section */}
@@ -30,7 +30,7 @@ export default function Footer() {
         <div>
           <h2 className="text-xl font-bold text-white mb-4">Contact</h2>
           <ul className="space-y-2 text-gray-400">
-            <li><strong>Email:</strong> abednegoamani@gmail.com</li>
+            <li><strong>Email:</strong> amslandsurveyors@gmail.com</li>
             <li><strong>Phone:</strong> +25495979586</li>
             <li><strong>Location:</strong> Mombasa, Kenya</li>
             <li><strong>Hours:</strong> Mon–Fri, 9am–5pm</li>
