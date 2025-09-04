@@ -141,7 +141,7 @@ export default function Home() {
         You can chat with our surveyors on Whatsapp
       </p>
       <a
-        href="https://wa.me/254713527865"
+    
         target="_blank"
         rel="noopener noreferrer"
         className="block bg-green-700 text-white text-center py-2 rounded-lg hover:bg-green-800"
