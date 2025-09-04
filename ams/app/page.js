@@ -119,7 +119,7 @@ export default function Home() {
 
       {/* About Section */}
 <section id="about" className="py-16 bg-gray-50">
-  <div className="max-w-6xl mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-10">
+  <div className="max-w-9xl mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-10">
     {/* Left Column - Quick Contacts */}
     <div className="md:col-span-1 bg-white shadow-lg rounded-lg p-6">
       <h3 className="text-lg font-bold text-blue-600 mb-4 flex items-center">
@@ -134,7 +134,7 @@ export default function Home() {
       </p>
 
       <p className="font-semibold text-gray-700">Email:</p>
-      <p className="mb-4">abednegoamani@gmail.com</p>
+      <p className="mb-4">amslandsurveyors@gmail.com</p>
 
       <h4 className="text-blue-600 font-bold mb-2">Need Help?</h4>
       <p className="text-sm text-gray-600 mb-4">
