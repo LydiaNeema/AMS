@@ -7,13 +7,12 @@ export default function Footer() {
         
         {/* About Section */}
         <div>
-          <h2 className="text-xl font-bold text-white mb-4">About Us</h2>
-          <p className="text-gray-400 leading-relaxed">
-            We specialize in professional land surveying, mapping, and geospatial
-            services to support property development, infrastructure projects,
-            and land management across Kenya.
-          </p>
-        </div>
+  <h2 className="text-xl font-bold text-white mb-4">Our Mission</h2>
+  <p className="text-gray-400 leading-relaxed">
+    Providing precise land surveying and geospatial services to support 
+    property development, infrastructure growth, and sustainable land management.
+  </p>
+</div>
 
         {/* Quick Links */}
         <div>
